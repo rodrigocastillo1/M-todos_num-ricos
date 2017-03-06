@@ -1,2 +1,2 @@
-# M-todos_num-ricos
+# NUMERICAL METHODS
 Se exponen varios métodos numéricos programados en Python.

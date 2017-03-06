@@ -1,0 +1,33 @@
+Funciones de del modulo math de python:
+
+FUNCIÓN											CÓDIGO							EJEMPLO
+/////////////////////////////////////			///////////////////////			///////////////////
+Valor absoluto									math.fabs						math.fabs(-3)
+
+Función exponencial								math.exp 						math.exp(1)
+
+Potencial 										math.pow(base,exponente) 		math.pow(2,3)
+
+raíz cuadrada 									math.sqrt 						math.sqrt(3.0)
+
+Coseno de un águlo medido en radianes 			math.cos 						math.cos(0.7)
+
+Coseno de un ángulo medido en grados			math.cos						math.sin(radians(90))
+
+Seno de un águlo medido en radianes 			math.sin 						math.sin(0.707)
+
+Seno de un ángulo medido en grados				math.sin 						math.sin(radians(90))
+
+Tangente de un ángulo medido en radianes 		math.tan 						math.tan(1)
+
+Conversión de radianes a grados 				math.degrees 					math.degrees(0,707)
+
+Conversión de grados a radianes					math.radians 					math.radians(180)
+
+Obtención de valor de pi 						math.pi 						math.pi
+
+obtención de valor de e 						math.e 							math.e
+
+Arcoseno de un valor (ángulo) 					math.acos 						math.acos(0.56)
+
+Arcseno de un valor (ángulo) 					math.asin 						math.asin(0.7)
